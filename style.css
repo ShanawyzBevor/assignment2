@@ -50,7 +50,6 @@
             .i-tag {
                 height: 33.9px;
                 width: 24px;
-                color: red;
                 padding: 16px 0px 16px 24px;
             }
             
@@ -65,7 +64,7 @@
             }
             
             .you {
-                background-color: red;
+                color: red;
                 border-radius: 5px;
             }
             /* banner section */
